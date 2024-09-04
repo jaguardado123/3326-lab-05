@@ -12,7 +12,7 @@ Next, **create your main() method inside your class**. It should be the same as 
 
 Now let the fun begin!
 
-## Getting user input
+### Getting user input
 
 To get user input in Java you must first import the **Scanner** class from the `java.util` package. Importing packages in Java must be done at the start of your code.
 
@@ -57,7 +57,7 @@ For more information on the Scanner class and how it's used visit: https://www.w
 
 ## Your program
 
-**User Input**
+### User Input
 
 For this assignment you will practice getting user input in Java. 
 
