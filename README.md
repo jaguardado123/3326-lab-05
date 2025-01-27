@@ -1,6 +1,6 @@
 # Lab Assignment 05
 
-In this lab you will practice writing Java code to input user data and use simple arithmetic.
+In this lab you will practice writing Java code to input user data.
 
 Same as Lab Assignment 01 and 02, you need to set up your workspace (class and main() method).
 
