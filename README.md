@@ -57,16 +57,22 @@ For more information on the Scanner class and how it's used visit: https://www.w
 
 ## Your program
 
-### User Input
+### User Input - Medical Form
 
 For this assignment you will practice getting user input in Java. 
 
 Declare a `Scanner` object to be able to get information from the user.
 
-Next, declare 4 variables of type `int`, `float`, `String`, and `boolean`, and assign each variable a value input by the user.
+Assume you are hired by hospital Texas General, and they've tasked you to create a program to collect user information to save paper.
 
-Lastly, output the information back to the user.
+1. Get and store the user's name. (Store as text)
+2. Get and store the user's age. (Store as a whole number)
+3. Get and store the user's weight. (Store it as a real number)
+4. Get and store if the user is a smoker. (Store it as either true or false)
+5. Output all of the information back to the user.
 
 ## Submit your assignment
 
-To submit your lab assignment click on the source control icon (3 circles with 2 lines) on your leftside navbar. Next, click on the '+' symbol next to "Changes" to stage your changes. Lastly, add a commit message (ex: "First commit") and click "Commit" then "Push" or "Sync Changes". And you're done!
+[Grading Criteria](https://joselitoguardado.dev/3326/labs/Lab_05.pdf)
+
+[How to Submit Assignments to GitHub](https://joselitoguardado.dev/3326/How_to_Submit_Assignments_to_GitHub.pdf)
